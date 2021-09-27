@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Goku56
-- 👀 I’m interested in Node and React Development
+- 👀 Interested in Node and React Development
 - 🌱 I am a junior web developer.
 - ❤️ I love doing development in Node.js || Express.js || MongoDB || MySQL || React.
